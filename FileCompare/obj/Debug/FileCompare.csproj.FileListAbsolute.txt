@@ -1,0 +1,10 @@
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\bin\Debug\FileCompare.exe.config
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\bin\Debug\FileCompare.exe
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\bin\Debug\FileCompare.pdb
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\obj\Debug\FileCompare.csprojAssemblyReference.cache
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\obj\Debug\FileCompare.FileCompare.resources
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\obj\Debug\FileCompare.Properties.Resources.resources
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\obj\Debug\FileCompare.csproj.GenerateResource.cache
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\obj\Debug\FileCompare.csproj.CoreCompileInputs.cache
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\obj\Debug\FileCompare.exe
+C:\Users\NShingange\source\repos\FileCompare\FileCompare\obj\Debug\FileCompare.pdb
